@@ -318,56 +318,56 @@ body,input,textarea,button{
 }
 
 .i-basket::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/basket.svg");
+    background-image: url("basket.svg");
 }
 .i-basket--white::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/basket_white.svg");
+    background-image: url("basket_white.svg");
 }
 .i-close--white::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/close_white.svg");
+    background-image: url("close_white.svg");
 }
 .i-flag-ge::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/flag_geo.svg");
+    background-image: url("flag_geo.svg");
 }
 .i-flag-en::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/flag_eng.svg");
+    background-image: url("flag_eng.svg");
 }
 .i-mail::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/mail.svg");
+    background-image: url("mail.svg");
 }
 .i-minus::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/minus.svg");
+    background-image: url("minus.svg");
 }
 .i-pin::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/pin.svg");
+    background-image: url("pin.svg");
 }
 .i-phone::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/phone.svg");
+    background-image: url("phone.svg");
 }
 .i-phone2::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/phone2.svg");
+    background-image: url("phone2.svg");
 }
 .i-plus::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/plus.svg");
+    background-image: url("plus.svg");
 }
 .i-trash::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/trash_gray.svg");
+    background-image: url("trash_gray.svg");
 }
 .i-trash--red::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/trash.svg");
+    background-image: url("trash.svg");
 }
 
 .i-arrow-back--red::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/arrow_back.svg");
+    background-image: url("arrow_back.svg");
 }
 .i-arrow-back2--red::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/arrow_first.svg");
+    background-image: url("arrow_first.svg");
 }
 .i-arrow-back2--white::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/arrow_first_white.svg");
+    background-image: url("arrow_first_white.svg");
 }
 .i-arrow-next--red::before{
-    background-image: url("http://shop.peaniltd.com/Content/Images/icons/arrow_next.svg");
+    background-image: url("arrow_next.svg");
 }
 
 /* ----------- /icons ----------- */
@@ -631,7 +631,7 @@ header.main-header .user-wrap .dropdown-toggle{
 header.main-header .user-wrap .dropdown-toggle::after{
     width: 10px;
     height: 100%;
-    background: url(http://shop.peaniltd.com/Content/Images/icons/dropdown_arrow_gray_2.svg) center no-repeat;
+    background: url(dropdown_arrow_gray_2.svg) center no-repeat;
     background-size: 16px 16px;
     border: 0;
     position: absolute;
@@ -662,7 +662,7 @@ header.main-header .basket-btn .icon::after{
 	display: block;
 	width: 100%;
 	height: 100%;
-    background: url(http://shop.peaniltd.com/Content/Images/icons/basket_white.svg) center no-repeat;
+    background: url(basket_white.svg) center no-repeat;
     background-size: contain;
 	position: absolute;
 	top: 0;
@@ -2883,9 +2883,6 @@ div.table .td a{
     }
     .page-cart .table .product .img-wrap .bg-img{
         border-radius: 6px;
-    }
-    .page-cart .table .product-name{
-        
     }
     .page-cart .table .product-count{
         background-color: #fff;
