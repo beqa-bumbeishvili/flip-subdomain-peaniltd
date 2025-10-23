@@ -1,0 +1,62 @@
+/* BPG DejaVu Sans */
+@font-face {
+	font-family: 'BPG DejaVu Sans';
+	src: url('../fonts/BPG_DejaVuSans/light.eot');
+	src: url('../fonts/BPG_DejaVuSans/light.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/BPG_DejaVuSans/light.woff') format('woff'),
+			 url('../fonts/BPG_DejaVuSans/light.ttf') format('truetype'),
+			 url('../fonts/BPG_DejaVuSans/light.svg#BPG DejaVu Sans') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'BPG DejaVu Sans';
+	src: url('../fonts/BPG_DejaVuSans/regular.eot');
+	src: url('../fonts/BPG_DejaVuSans/regular.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/BPG_DejaVuSans/regular.woff') format('woff'),
+			 url('../fonts/BPG_DejaVuSans/regular.ttf') format('truetype'),
+			 url('../fonts/BPG_DejaVuSans/regular.svg#BPG DejaVu Sans') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'BPG DejaVu Sans';
+	src: url('../fonts/BPG_DejaVuSans/bold.eot');
+	src: url('../fonts/BPG_DejaVuSans/bold.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/BPG_DejaVuSans/bold.woff') format('woff'),
+			 url('../fonts/BPG_DejaVuSans/bold.ttf') format('truetype'),
+			 url('../fonts/BPG_DejaVuSans/bold.svg#BPG DejaVu Sans') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BPG DejaVu Sans MT';
+	src: url('../fonts/BPG_DejaVuSans/light_up.eot');
+	src: url('../fonts/BPG_DejaVuSans/light_up.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/BPG_DejaVuSans/light_up.woff') format('woff'),
+			 url('../fonts/BPG_DejaVuSans/light_up.ttf') format('truetype'),
+			 url('../fonts/BPG_DejaVuSans/light_up.svg#BPG DejaVu Sans MT') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'BPG DejaVu Sans MT';
+	src: url('../fonts/BPG_DejaVuSans/regular_up.eot');
+	src: url('../fonts/BPG_DejaVuSans/regular_up.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/BPG_DejaVuSans/regular_up.woff') format('woff'),
+			 url('../fonts/BPG_DejaVuSans/regular_up.ttf') format('truetype'),
+			 url('../fonts/BPG_DejaVuSans/regular_up.svg#BPG DejaVu Sans MT') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'BPG DejaVu Sans MT';
+	src: url('../fonts/BPG_DejaVuSans/bold_up.eot');
+	src: url('../fonts/BPG_DejaVuSans/bold_up.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/BPG_DejaVuSans/bold_up.woff') format('woff'),
+			 url('../fonts/BPG_DejaVuSans/bold_up.ttf') format('truetype'),
+			 url('../fonts/BPG_DejaVuSans/bold_up.svg#BPG DejaVu Sans MT') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
